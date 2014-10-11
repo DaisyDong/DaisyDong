@@ -19,8 +19,8 @@ class Filestream
 	}
 	catch(IOException e)
 	{
-		System.err.println("FileStreamsTest:"+e);
-		System.out.println("change B3");
+		System.err.println("FileStreamsTest:"+e); 
+		System.out.println("merge B3 & C4"); 
 	}
 	}
 }

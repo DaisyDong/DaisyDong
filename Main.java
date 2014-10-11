@@ -50,8 +50,8 @@ public class Main
 				m++;
 			}
 		}
-		int sum = 0,flag = 0;
-		System.out.println("change B3");
+		int sum = 0,flag = 0; 
+		System.out.println("merge B3 & C4");
 		for(int i= 1;i <= n;i++){ 
 			if(equal[i] == 0){
 				if(Nequal[i] == m || Nequal[i] == -m){ 
