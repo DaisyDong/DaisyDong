@@ -51,6 +51,7 @@ public class Main
 			}
 		}
 		int sum = 0,flag = 0;
+		System.out.println("C4 change");
 		for(int i= 1;i <= n;i++){ 
 			if(equal[i] == 0){
 				if(Nequal[i] == m || Nequal[i] == -m){ 
