@@ -20,6 +20,7 @@ class Filestream
 	catch(IOException e)
 	{
 		System.err.println("FileStreamsTest:"+e);
+		System.out.println("change B3");
 	}
 	}
 }
